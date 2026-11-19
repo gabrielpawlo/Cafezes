@@ -1,4 +1,4 @@
-# CafezesBI – Definição do problema e modelagem (Etapas 1, 2 e 3)
+# CafezesBI – Definição do problema e modelagem
 
 ## Nome do SBD
 
@@ -41,7 +41,7 @@ O sistema controla a quantidade em estoque de cada café, registra as vendas, re
 | 2 | Diagrama entidade-relacionamento | [`etapa-2-diagrama-er.png`](etapa-2-diagrama-er.png) |
 | 3 | Modelo lógico | [`etapa-3-modelo-logico.md`](etapa-3-modelo-logico.md) |
 
-## Diagrama entidade-relacionamento (Etapa 2)
+## Diagrama entidade-relacionamento
 
 Desenhado no BrModelo, em notação de Peter Chen, com cardinalidades no formato (mín,máx). No BrModelo, a chave primária é o círculo preenchido.
 
